@@ -10,5 +10,6 @@ public class IotCarApplication {
         SpringApplication.run(IotCarApplication.class,args);
         System.out.println("hello word");
         System.out.println("hello jk");
+        System.out.println("hello jj");
     }
 }
